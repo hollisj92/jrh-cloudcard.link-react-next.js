@@ -1,0 +1,169 @@
+{
+  "selectedTemplate": 2,
+  "role":"Support and Systems Admin",
+  "misson":"I am currently hunting for a cloud/server/administration type role that utilizes my skills in various programming languages, automation, and cloud infrastructure knowledge. My strong understanding of concepts such as CI/CD, client relations, operational security, troubleshooting, and knowledge base article creation make me a valuable asset for any organization.",
+  "headings": {
+    "skills": "Skills/Tech",
+    "projects": "Projects/Personal Sites",
+    "awards": "Certs",
+    "work": "Experience",
+    "education": "Edu."
+  },
+  "basics": {
+    "name": "Joshua R. Hollis",
+    "email": "jrh-cloudcard@live.com",
+    "phone": "8035869722",
+    "website": "jrh-cloudblog.link",
+    "location": {
+      "address": "Columbia, SC"
+    }
+  },
+  "education": [
+    {
+      "location": "Rockhill, SC",
+      "area": "Liberal Arts",
+      "studyType": "BA",
+      "startDate": "Jan 2014",
+      "endDate": "Mar 2017",
+      "institution": "Winthrop University",
+      "gpa": "3.0"
+    }
+  ],
+  "work": [
+    {
+      "company": "BAE Systems",
+      "position": "Help Desk II",
+      "website": "",
+      "startDate": "August 2021",
+      "highlights": [
+        "Acted as first contact for a company with over 34,000 internal employees.",
+        "Developed aptitude in ticket handling and case relations via SNOW and ServiceNow.",
+        "Administered and routed thousands of cases via backlogs, incidents, requests and calls.",
+        "Created solutions for tough problems facing industry leading engineers and technicians.",
+        "Fostered a professional conduct and ease of communication that crossed job-title borders.",
+        "Delegated event tickets that affected several hundred users at once.",
+        "Cross-trained in many avenues of support, from chats, meetings, calls and email correspondence."
+      ],
+      "endDate": "Current",
+      "location": "Full Remote"
+    },
+    {
+      "highlights": [
+        "Consulted for Apple brand desktop, handheld and mobile devices.",
+        "Examined and documented support tickets relating to user use, repair and service plans.",
+        "Troubleshoot with hands-on or remote support.",
+        "Assess and communicate to clients and co-wokers about various technical and account issues.",
+        "Mastered my customer relation skills, allowing for clear and productive communication.",
+        "Earned the opportunity to be trained in several spheres of business."
+      ],
+      "company": "Transcom/Apple",
+      "position": "iOS/MSS Help Desk",
+      "location": "Full Remote",
+      "startDate": " Mar 2021",
+      "endDate": "Aug 2021"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages/Script/Code Tools",
+      "level": "",
+      "keywords": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Terraform (IaC)",
+        "YAML Script",
+        "BASH Script"
+      ]
+    },
+    {
+      "keywords": [
+        "Github/Gitlab",
+        "AWS",
+        "Ansible",
+        "Jenkins",
+        "Docker",
+        "Kubernetes"
+      ],
+      "name": "Server/CICD Tools"
+    },
+    {
+      "keywords": [
+        "CI/CD",
+        "Client Relations",
+        "Operational Security",
+        null,
+        "Troubleshooting",
+        "KB Article Creation"
+      ],
+      "name": "Concepts/Soft Skills"
+    }
+  ],
+  "projects": [
+    {
+      "name": "jrh-cloudblog.link",
+      "description": "A next.js website to act as a github display and personal blog.",
+      "url": "jrh-cloudblog.link",
+      "keywords": [
+        "Next.js",
+        "Gitlab",
+        "Github",
+        "Terraform",
+        "AWS - S3 - Cloudfront"
+      ]
+    },
+    {
+      "name": "jrh-cloudcard.link",
+      "description": "A next.js website to act as a light-weight and modifyable resume website.",
+      "url": "jrh-cloudcard.link",
+      "keywords": [
+        "Next.js",
+        "Github",
+        "Terraform",
+        "JSON",
+        "AWS - S3 - Cloudfront"
+      ]
+    },
+    {
+      "keywords": [
+        "AWS - EC2 - RDS",
+        "Cloudwatch",
+        "Next.js"
+      ],
+      "description": "This will be an external dashboard calling on the API of Cloudwatch alerts set up within my AWS environment.",
+      "name": "jrh-cloudwatch.link",
+      "url": "N/A"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Comptia A+",
+      "date": "2020",
+      "awarder": "Comptia"
+    },
+    {
+      "title": "Certified Solutions Architect - Associate",
+      "date": "2021",
+      "awarder": "AWS"
+    },
+    {
+      "title": "Certified Solutions Architect - Professional",
+      "date": "Studying",
+      "awarder": "AWS"
+    },
+    {
+      "title": "AWS Certified SysOps Administrator Associate",
+      "date": "Studying",
+      "awarder": "AWS"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
