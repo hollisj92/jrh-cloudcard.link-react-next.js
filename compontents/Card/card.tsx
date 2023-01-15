@@ -30,7 +30,7 @@ function MyCard() {
             
             <div className={styles.linkBar}>
               <div className={styles.introName}>
-                <h1 className={styles.firstName}>JOSHUA R. HOLLIS</h1>
+                <h1 className={styles.firstName}>{content.basics.name}</h1>
               </div>
               <h3 className={styles.introRole}>{content.role}</h3>
               <Link
@@ -62,7 +62,7 @@ function MyCard() {
                 <li>
                   <Link className={styles.bioListLink}
                     href={"https://drive.google.com/drive/folders/1vy6rZlfveUzKd3p2v5cVqtzgVC0HANZQ?usp=sharing"}
-
+                    target="_blank"
                   >
                     <p className={styles.frontlink} onClick={handleClick}>Resume Download</p>
                   </Link>

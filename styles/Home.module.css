@@ -130,7 +130,7 @@
 }
 
 .firstName {
-  font-style: bold;
+  text-transform: uppercase;
   letter-spacing: 10px;
   font-size: 5rem;
   color: silver;

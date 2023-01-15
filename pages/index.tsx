@@ -1,12 +1,7 @@
 import Head from "next/head";
-import { Inter } from "@next/font/google";
 import styles from "../styles/Home.module.css";
 import React from 'react';
 import MyCard from '../compontents/Card/card';
-
-
-const inter = Inter({ subsets: ["latin"] });
-// handleFliterClick
 
 export default function Home() {
 
@@ -24,9 +19,6 @@ export default function Home() {
         <div className={styles.cloud2}></div>
         <div className={styles.cloud3}></div>
       </main>
-      <footer>
-        <p>www.jrh-cloudcard.com - 2023</p>
-      </footer>
     </>
   );
 }
