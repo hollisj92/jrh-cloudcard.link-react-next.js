@@ -1,7 +1,7 @@
 {
   "selectedTemplate": 2,
   "role":"Support and Systems Admin",
-  "misson":"I am currently hunting for a cloud/server/administration type role that utilizes my skills in various programming languages, automation, and cloud infrastructure knowledge. My strong understanding of concepts such as CI/CD, client relations, operational security, troubleshooting, and knowledge base article creation make me a valuable asset for any organization.",
+  "misson":"I am currently hunting for a cloud/server/administration type role that utilizes my skills in various programming languages, automation, cloud infrastructure knowledge, customer service skills and troubleshooting accumen.",
   "headings": {
     "skills": "Skills/Tech",
     "projects": "Projects/Personal Sites",
@@ -12,7 +12,7 @@
   "basics": {
     "name": "Joshua R. Hollis",
     "email": "jrh-cloudcard@live.com",
-    "phone": "8035869722",
+    "phone": "803-586-9722",
     "website": "jrh-cloudblog.link",
     "location": {
       "address": "Columbia, SC"
@@ -33,31 +33,21 @@
     {
       "company": "BAE Systems",
       "position": "Help Desk II",
-      "website": "",
+      "website": "https://www.baesystems.com/en-us/home",
       "startDate": "August 2021",
       "highlights": [
-        "Acted as first contact for a company with over 34,000 internal employees.",
-        "Developed aptitude in ticket handling and case relations via SNOW and ServiceNow.",
-        "Administered and routed thousands of cases via backlogs, incidents, requests and calls.",
-        "Created solutions for tough problems facing industry leading engineers and technicians.",
-        "Fostered a professional conduct and ease of communication that crossed job-title borders.",
-        "Delegated event tickets that affected several hundred users at once.",
-        "Cross-trained in many avenues of support, from chats, meetings, calls and email correspondence."
+        "I served as the primary point of contact for a company with over 34,000 employees, handling and routing thousands of cases through SNOW and ServiceNow. I developed solutions for difficult issues and fostered effective communication across job titles. I also cross-trained in various forms of support, including chat, meetings, calls, and email correspondence."
       ],
       "endDate": "Current",
       "location": "Full Remote"
     },
     {
       "highlights": [
-        "Consulted for Apple brand desktop, handheld and mobile devices.",
-        "Examined and documented support tickets relating to user use, repair and service plans.",
-        "Troubleshoot with hands-on or remote support.",
-        "Assess and communicate to clients and co-wokers about various technical and account issues.",
-        "Mastered my customer relation skills, allowing for clear and productive communication.",
-        "Earned the opportunity to be trained in several spheres of business."
+        "I provided consulting services for Apple brand desktop, handheld, and mobile devices. I examined and documented support tickets related to user use, repair, and service plans. I troubleshooted and provided hands-on or remote support, and communicated with clients and coworkers about technical and account issues. I developed strong customer relation skills and earned the opportunity to be trained in various areas of business."
       ],
       "company": "Transcom/Apple",
       "position": "iOS/MSS Help Desk",
+      "website": "https://www.transcom.com/us/",
       "location": "Full Remote",
       "startDate": " Mar 2021",
       "endDate": "Aug 2021"
@@ -92,7 +82,6 @@
         "CI/CD",
         "Client Relations",
         "Operational Security",
-        null,
         "Troubleshooting",
         "KB Article Creation"
       ],

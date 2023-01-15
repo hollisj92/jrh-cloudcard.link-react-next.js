@@ -24,6 +24,9 @@ export default function Home() {
         <div className={styles.cloud2}></div>
         <div className={styles.cloud3}></div>
       </main>
+      <footer>
+        <p>www.jrh-cloudcard.com - 2023</p>
+      </footer>
     </>
   );
 }
