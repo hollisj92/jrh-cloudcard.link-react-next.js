@@ -16,7 +16,7 @@ function MyCard() {
   };
 
   const [flip, setFlip] = useState(false);
-  function handleClick(e) {
+  function handleClick(e:any) {
     e.stopPropagation();
   }
   return (
@@ -25,7 +25,7 @@ function MyCard() {
         <div className={styles.CardRootFront} onClick={() => setFlip(!flip)}>
           <div className={styles.bodyIntro}>
             <div className={styles.cloudIcon}>
-              <BsCloudHaze2Fill size={200} opacity={1} color={'white'}/>
+              <BsCloudHaze2Fill size={200} color={'white'}/>
             </div>  
             
             <div className={styles.linkBar}>
@@ -61,8 +61,8 @@ function MyCard() {
                 <li><p>{content.misson}</p></li>
                 <li>
                   <Link className={styles.bioListLink}
-                    href={"../../media/pdf/ResumeTemplatev1.pdf"}
-                    download={"ResumeTemplatev1.pdf"}
+                    href={"https://drive.google.com/drive/folders/1vy6rZlfveUzKd3p2v5cVqtzgVC0HANZQ?usp=sharing"}
+
                   >
                     <p className={styles.frontlink} onClick={handleClick}>Resume Download</p>
                   </Link>

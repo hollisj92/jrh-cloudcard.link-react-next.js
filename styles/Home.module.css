@@ -140,6 +140,9 @@
   text-shadow: #2a8d7b -1px -1px; 
 }
 
+.frontlink {
+  width: 5rem;
+}
 
 .frontlink:hover {
   color: #FF331F;
@@ -165,14 +168,6 @@
   height: 125%;
   width: 125%;
   background-color: #444545;
-}
-
-
-.bodySidebar .icon {
-  background-image: url("../media/pics/profilepic.png");
-  width: 10rem;
-  height: 10rem;
-  position: relative;
 }
 
 .bodySidebar .sideContainer {
@@ -214,6 +209,7 @@
   letter-spacing: 1px;
   font-size: 18px;
   text-decoration: none;
+
 }
 
 .bodyContainer {
@@ -303,7 +299,7 @@
 }
 
 .stackObjects {
-  background: #375F53; color: #ffffff; display: inline-block; font-family: 'Lato', sans-serif; font-size: 12px; font-weight: bold; line-height: 12px; letter-spacing: 1px; margin: 0 10px 30px; padding: 10px 15px 8px; text-transform: uppercase; 
+  background: #375F53; color: #ffffff; display: inline-block; font-family: 'Lato', sans-serif; font-size: 12px; font-weight: bold; line-height: 12px; letter-spacing: 1px; margin: 0 10px 30px; padding: 10px 15px 8px; text-transform: uppercase; text-decoration: none;
 }
 
 /* cloudcard additions */
